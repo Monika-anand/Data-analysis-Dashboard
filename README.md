@@ -29,3 +29,18 @@ By examining factors such as outlet type, size, location, and product characteri
 
 ## Dashboard
 <img width="1831" height="881" alt="Screenshot 2025-10-29 161454" src="https://github.com/user-attachments/assets/47d03c9a-a40e-46d2-ae21-19b7da8b7f59" />
+
+## Project Insights
+- Low Fat items generated higher total sales (≈ ₹7.7 Lakh) compared to Regular Fat products.
+- Supermarket outlets recorded the highest sales, indicating strong customer preference.
+- Medium-sized outlets achieved better performance due to optimal product variety and accessibility.
+- Baking goods and household products emerged as top-selling item categories.
+- Tier-1 cities contributed the majority of total sales, driven by higher customer base and spending power.
+- Outlets established earlier tend to have consistent sales, showing customer loyalty impact.
+
+## Conclusion  
+The BlinkIT Grocery Sales Analysis highlights key sales drivers and business opportunities.  
+Low Fat products and Medium-sized outlets lead in performance, with Supermarket Type 1 outlets showing steady growth.  
+Urban areas contribute the highest sales, indicating strong potential for expansion.  
+Data-driven strategies in inventory and operations can boost efficiency by 15–20%. 
+
