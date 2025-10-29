@@ -1,2 +1,5 @@
-# Data-analysis-Dashboard
-I developed a comprehensive data analysis project using Excel, involving multiple dashboards and pivot tables to analyze and interpret the dataset. The process included data preprocessing, cleaning, transformation, and visualization to uncover key insights and performance trends.
+# BlinkIT Grocery Data Analysis (Interactive Dashboard using Power BI)
+## Project Objective
+
+The BlinkIT Grocery project aims to analyze grocery sales performance across multiple outlets and categories. The objective is to help the management team identify key sales drivers, track outlet performance, and improve decision-making related to inventory, marketing, and operations.
+By examining factors such as outlet type, size, location, and product characteristics, the goal is to increase overall revenue and operational efficiency in upcoming financial years.
