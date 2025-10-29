@@ -1,4 +1,4 @@
-# BlinkIT Grocery Data Analysis (Interactive Dashboard using Power BI)
+# BlinkIT Grocery Data Analysis (Interactive Dashboard using Excel)
 ## Project Objective
 
 The BlinkIT Grocery project aims to analyze grocery sales performance across multiple outlets and categories. The objective is to help the management team identify key sales drivers, track outlet performance, and improve decision-making related to inventory, marketing, and operations.
